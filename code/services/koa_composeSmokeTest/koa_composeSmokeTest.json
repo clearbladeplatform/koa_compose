@@ -1,0 +1,12 @@
+{
+    "current_version": 1,
+    "dependencies": "log,koa_compose",
+    "logging_enabled": "false",
+    "name": "koa_composeSmokeTest",
+    "params": [],
+    "permissions": {
+        "Authenticated": 1
+    },
+    "run_user": "",
+    "source": "koa_composeSmokeTest.js"
+}
